@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/",
+  "unique_key": "https://www.bluebash.co",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "PdPasQNdXDfwJFJ",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/\",\n  \"unique_key\": \"https://www.bluebash.co\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"PdPasQNdXDfwJFJ\",\n  \"order_no\": \"1733205828084.639072\"\n}",
+  "order_no": "1733205828084.639072"
+}

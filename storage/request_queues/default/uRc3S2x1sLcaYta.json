@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/blog/rpa-in-digital-transformation-for-businesses",
+  "unique_key": "https://www.bluebash.co/blog/rpa-in-digital-transformation-for-businesses",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "uRc3S2x1sLcaYta",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/rpa-in-digital-transformation-for-businesses\",\n  \"unique_key\": \"https://www.bluebash.co/blog/rpa-in-digital-transformation-for-businesses\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"uRc3S2x1sLcaYta\",\n  \"order_no\": \"1733205827454.662085\"\n}",
+  "order_no": "1733205827454.662085"
+}

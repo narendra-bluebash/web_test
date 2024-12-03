@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/company/privacy-policy",
+  "unique_key": "https://www.bluebash.co/company/privacy-policy",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "ZnvrBbupGxSFJ1m",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/company/privacy-policy\",\n  \"unique_key\": \"https://www.bluebash.co/company/privacy-policy\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"ZnvrBbupGxSFJ1m\",\n  \"order_no\": \"1733205828546.021938\"\n}",
+  "order_no": "1733205828546.021938"
+}

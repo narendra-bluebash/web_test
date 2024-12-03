@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/industries/social-media-app-development-company",
+  "unique_key": "https://www.bluebash.co/industries/social-media-app-development-company",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "YeVp98yjGnnvZQX",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/industries/social-media-app-development-company\",\n  \"unique_key\": \"https://www.bluebash.co/industries/social-media-app-development-company\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"YeVp98yjGnnvZQX\",\n  \"order_no\": \"1733205828113.337040\"\n}",
+  "order_no": "1733205828113.337040"
+}

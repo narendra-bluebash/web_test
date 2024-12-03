@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/case-studies/dental-lead-generation",
+  "unique_key": "https://www.bluebash.co/case-studies/dental-lead-generation",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "ayAXtQwV3jktAvQ",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/dental-lead-generation\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/dental-lead-generation\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"ayAXtQwV3jktAvQ\",\n  \"order_no\": \"1733205827451.714039\"\n}",
+  "order_no": "1733205827451.714039"
+}

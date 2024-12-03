@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bluebash.co/case-studies/thedgl",
+  "unique_key": "https://www.bluebash.co/case-studies/thedgl",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.bluebash.co/case-studies/thedgl",
+  "handled_at": "2024-12-03 06:03:52.269201+00:00",
+  "id": "30i3qWv1drOQBCY",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/thedgl\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/thedgl\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/case-studies/thedgl\",\n  \"handled_at\": \"2024-12-03 06:03:52.269201+00:00\",\n  \"id\": \"30i3qWv1drOQBCY\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

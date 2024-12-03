@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/services/cloud-infrastructure/availability-management",
+  "unique_key": "https://www.bluebash.co/services/cloud-infrastructure/availability-management",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "vcXeHFHJwvt4Qil",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/services/cloud-infrastructure/availability-management\",\n  \"unique_key\": \"https://www.bluebash.co/services/cloud-infrastructure/availability-management\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"vcXeHFHJwvt4Qil\",\n  \"order_no\": \"1733205828187.109947\"\n}",
+  "order_no": "1733205828187.109947"
+}
