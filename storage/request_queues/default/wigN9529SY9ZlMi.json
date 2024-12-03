@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/blog/beware-of-false-quotations-choosing-the-right-it-company/",
+  "unique_key": "https://www.bluebash.co/blog/beware-of-false-quotations-choosing-the-right-it-company",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "wigN9529SY9ZlMi",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/beware-of-false-quotations-choosing-the-right-it-company/\",\n  \"unique_key\": \"https://www.bluebash.co/blog/beware-of-false-quotations-choosing-the-right-it-company\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"wigN9529SY9ZlMi\",\n  \"order_no\": \"1733209688304.574013\"\n}",
+  "order_no": "1733209688304.574013"
+}

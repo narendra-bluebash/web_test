@@ -13,8 +13,8 @@
   "retry_count": 0,
   "no_retry": false,
   "loaded_url": "https://www.bluebash.co/case-studies/prakahs-gold-finance",
-  "handled_at": "2024-12-03 06:03:52.349942+00:00",
+  "handled_at": "2024-12-03 07:08:03.761571+00:00",
   "id": "LuRQyJHztsSCtkU",
-  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"handled_at\": \"2024-12-03 06:03:52.349942+00:00\",\n  \"id\": \"LuRQyJHztsSCtkU\",\n  \"order_no\": null\n}",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/case-studies/prakahs-gold-finance\",\n  \"handled_at\": \"2024-12-03 07:08:03.761571+00:00\",\n  \"id\": \"LuRQyJHztsSCtkU\",\n  \"order_no\": null\n}",
   "order_no": null
 }

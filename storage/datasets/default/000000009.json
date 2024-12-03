@@ -1,4 +1,32 @@
 {
   "url": "https://www.bluebash.co/case-studies/prakahs-gold-finance",
-  "title": "Prakahs Gold  Finance | Case Study"
+  "title": "Prakahs Gold  Finance | Case Study",
+  "h1s": [
+    "Prakahsgold Finance"
+  ],
+  "h2s": [
+    "Project Overview",
+    "A Glance ",
+    "Services We Provided"
+  ],
+  "h3s": [
+    "Challenges",
+    "Solutions ",
+    "App Modules",
+    "Customer Module:",
+    "Loan Module:",
+    "Purchase Module:",
+    "Sell Module:",
+    " Message Module:",
+    "Reporting Module:",
+    "Settings Module:",
+    "Advanced Features & Integration",
+    "Our Process & Approach",
+    "Tech Stack",
+    "Project Status",
+    " SOLUTIONS ",
+    " INDUSTRIES ",
+    "SERVICES",
+    "COMPANY"
+  ]
 }

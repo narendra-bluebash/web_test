@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/blog/rpa-transform-revenue-cycle-management/",
+  "unique_key": "https://www.bluebash.co/blog/rpa-transform-revenue-cycle-management",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "grFYRK2keIRRTj9",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/rpa-transform-revenue-cycle-management/\",\n  \"unique_key\": \"https://www.bluebash.co/blog/rpa-transform-revenue-cycle-management\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"grFYRK2keIRRTj9\",\n  \"order_no\": \"1733209686618.505955\"\n}",
+  "order_no": "1733209686618.505955"
+}

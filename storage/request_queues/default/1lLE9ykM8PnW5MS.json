@@ -12,8 +12,8 @@
   "retry_count": 0,
   "no_retry": false,
   "loaded_url": "https://www.bluebash.co/",
-  "handled_at": "2024-12-03 06:03:47.490450+00:00",
+  "handled_at": "2024-12-03 07:08:00.957185+00:00",
   "id": "1lLE9ykM8PnW5MS",
-  "json_": "{\n  \"url\": \"https://bluebash.co\",\n  \"unique_key\": \"https://bluebash.co\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/\",\n  \"handled_at\": \"2024-12-03 06:03:47.490450+00:00\",\n  \"id\": \"1lLE9ykM8PnW5MS\",\n  \"order_no\": null\n}",
+  "json_": "{\n  \"url\": \"https://bluebash.co\",\n  \"unique_key\": \"https://bluebash.co\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/\",\n  \"handled_at\": \"2024-12-03 07:08:00.957185+00:00\",\n  \"id\": \"1lLE9ykM8PnW5MS\",\n  \"order_no\": null\n}",
   "order_no": null
 }

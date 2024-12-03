@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/services/cloud-infrastructure/hire-aws-solutions-architect",
+  "unique_key": "https://www.bluebash.co/services/cloud-infrastructure/hire-aws-solutions-architect",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "AMjwXXmrxDLh059",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/services/cloud-infrastructure/hire-aws-solutions-architect\",\n  \"unique_key\": \"https://www.bluebash.co/services/cloud-infrastructure/hire-aws-solutions-architect\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"AMjwXXmrxDLh059\",\n  \"order_no\": \"1733209697577.971935\"\n}",
+  "order_no": "1733209697577.971935"
+}

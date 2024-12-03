@@ -6,14 +6,15 @@
   "payload": null,
   "user_data": {
     "__crawlee": {
+      "state": 3,
       "crawlDepth": 1
     }
   },
   "retry_count": 0,
   "no_retry": false,
-  "loaded_url": null,
-  "handled_at": null,
+  "loaded_url": "https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare/",
+  "handled_at": "2024-12-03 07:08:09.106116+00:00",
   "id": "XxdjW5lgZDz4BKl",
-  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare\",\n  \"unique_key\": \"https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"XxdjW5lgZDz4BKl\",\n  \"order_no\": \"1733205827475.195885\"\n}",
-  "order_no": "1733205827475.195885"
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare\",\n  \"unique_key\": \"https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/blog/ayushman-bharat-digital-mission-revolutionize-healthcare/\",\n  \"handled_at\": \"2024-12-03 07:08:09.106116+00:00\",\n  \"id\": \"XxdjW5lgZDz4BKl\",\n  \"order_no\": null\n}",
+  "order_no": null
 }

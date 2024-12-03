@@ -1,4 +1,27 @@
 {
   "url": "https://www.bluebash.co/case-studies/thedgl",
-  "title": "The DGL I Case Study"
+  "title": "The DGL I Case Study",
+  "h1s": [
+    "TheDGL\n      "
+  ],
+  "h2s": [
+    "Project Overview",
+    "A Glance ",
+    "Services We Provided"
+  ],
+  "h3s": [
+    "Challenges",
+    "Solutions ",
+    "App Modules",
+    "Admin Dashboard:",
+    "User",
+    "Advanced Features & Integration",
+    "Our Process & Approach",
+    "Tech Stack",
+    "Project Status",
+    " SOLUTIONS ",
+    " INDUSTRIES ",
+    "SERVICES",
+    "COMPANY"
+  ]
 }

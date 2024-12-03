@@ -13,8 +13,8 @@
   "retry_count": 0,
   "no_retry": false,
   "loaded_url": "https://www.bluebash.co/case-studies/ucv",
-  "handled_at": "2024-12-03 06:03:49.858036+00:00",
+  "handled_at": "2024-12-03 07:08:02.499289+00:00",
   "id": "n0LhALHCiFNnBno",
-  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"handled_at\": \"2024-12-03 06:03:49.858036+00:00\",\n  \"id\": \"n0LhALHCiFNnBno\",\n  \"order_no\": null\n}",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"unique_key\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/case-studies/ucv\",\n  \"handled_at\": \"2024-12-03 07:08:02.499289+00:00\",\n  \"id\": \"n0LhALHCiFNnBno\",\n  \"order_no\": null\n}",
   "order_no": null
 }

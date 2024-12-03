@@ -1,0 +1,47 @@
+{
+  "url": "https://www.bluebash.co/blog/healthcare-chatbot-assistant-with-rasa",
+  "title": "How to Build a Healthcare chatbot Assistant with Rasa?",
+  "h1s": [
+    "How to Create a Healthcare Assistant Chatbot Using Rasa and Python"
+  ],
+  "h2s": [
+    "\n",
+    "Features",
+    "FAQ's"
+  ],
+  "h3s": [
+    "Github Link for the code: ",
+    "Setting Up Your Rasa Environment",
+    "1.  Install Rasa: ",
+    "Understanding Key Rasa Concepts",
+    "Rasa Project Structure",
+    "Define Intents: ",
+    "3. Configure Actions and Domain:",
+    "4. Implement Custom Actions:",
+    "5. Define Stories: ",
+    "6. Train Your Chatbot: ",
+    "7. Test Your Chatbot: ",
+    "Result:",
+    "Deployment Strategies",
+    "Dynamic Responses with Custom Actions",
+    "Slot Filling Strategies",
+    "Conclusion",
+    "1. What is Rasa in chatbot?",
+    "2. Is Rasa AI free?",
+    "3. Does Rasa use Python?",
+    "4. What is the full form of Rasa?",
+    "5. What is the benefit of Rasa?",
+    "6. How to host Rasa chatbot?",
+    "7. What is a medical chatbot using Rasa?",
+    "8. Is Rasa good for chatbots?",
+    "9. How do I create a chatbot for healthcare?",
+    "10. What type of AI is Rasa?",
+    "What Is Langchain? How Does It Empower Your Organization With Your Data?",
+    "Introducing Langsmith: Your All-in-One Solution For Debugging, Testing, Evaluating, And Monitoring Applications",
+    "How Can We Use LangChain For Data Analysis: A Detailed Perspective",
+    " SOLUTIONS ",
+    " INDUSTRIES ",
+    "SERVICES",
+    "COMPANY"
+  ]
+}

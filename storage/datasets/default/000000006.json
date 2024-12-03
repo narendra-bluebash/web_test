@@ -1,4 +1,26 @@
 {
   "url": "https://www.bluebash.co/case-studies/dental-supplies-marketplace",
-  "title": "Dental Supplies Marketplace I Case Study"
+  "title": "Dental Supplies Marketplace I Case Study",
+  "h1s": [
+    "Dental"
+  ],
+  "h2s": [
+    "Project Overview",
+    "Services We Provided"
+  ],
+  "h3s": [
+    "Challenges",
+    "Solutions",
+    "App Modules",
+    "Admin Portal:",
+    "User Portal:",
+    "Supplier Portal:",
+    "Our Process & Approach",
+    "Tech Stack",
+    "Project Status",
+    " SOLUTIONS ",
+    " INDUSTRIES ",
+    "SERVICES",
+    "COMPANY"
+  ]
 }

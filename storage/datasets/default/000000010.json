@@ -1,4 +1,25 @@
 {
   "url": "https://www.bluebash.co/case-studies/pop-inventory",
-  "title": "Pop Inventory | Case Study"
+  "title": "Pop Inventory | Case Study",
+  "h1s": [],
+  "h2s": [
+    "Project Overview",
+    "A Glance ",
+    "Services We Provided"
+  ],
+  "h3s": [
+    "Challenges",
+    "Solutions ",
+    "Advanced Features & Integration",
+    "Our Process & Approach",
+    "App Modules",
+    "Admin Users",
+    "Merchant User",
+    "Tech Stack",
+    "Project Status",
+    " SOLUTIONS ",
+    " INDUSTRIES ",
+    "SERVICES",
+    "COMPANY"
+  ]
 }

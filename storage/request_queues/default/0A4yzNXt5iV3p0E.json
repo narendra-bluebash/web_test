@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/services/artificial-intelligence/computer-vision",
+  "unique_key": "https://www.bluebash.co/services/artificial-intelligence/computer-vision",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "0A4yzNXt5iV3p0E",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/services/artificial-intelligence/computer-vision\",\n  \"unique_key\": \"https://www.bluebash.co/services/artificial-intelligence/computer-vision\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"0A4yzNXt5iV3p0E\",\n  \"order_no\": \"1733209693727.128983\"\n}",
+  "order_no": "1733209693727.128983"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bluebash.co/blog/tag/artificial-intelligence/",
+  "unique_key": "https://www.bluebash.co/blog/tag/artificial-intelligence",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "KqftNF67Qj3sPk4",
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/blog/tag/artificial-intelligence/\",\n  \"unique_key\": \"https://www.bluebash.co/blog/tag/artificial-intelligence\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"KqftNF67Qj3sPk4\",\n  \"order_no\": \"1733209686606.748104\"\n}",
+  "order_no": "1733209686606.748104"
+}

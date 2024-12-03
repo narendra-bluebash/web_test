@@ -6,14 +6,15 @@
   "payload": null,
   "user_data": {
     "__crawlee": {
+      "state": 3,
       "crawlDepth": 2
     }
   },
   "retry_count": 0,
   "no_retry": false,
-  "loaded_url": null,
-  "handled_at": null,
+  "loaded_url": "https://www.bluebash.co/services/artificial-intelligence/data-annotation",
+  "handled_at": "2024-12-03 07:08:16.344084+00:00",
   "id": "EAqbRETQrQmhwI3",
-  "json_": "{\n  \"url\": \"https://www.bluebash.co/services/artificial-intelligence/data-annotation\",\n  \"unique_key\": \"https://www.bluebash.co/services/artificial-intelligence/data-annotation\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"EAqbRETQrQmhwI3\",\n  \"order_no\": \"1733205828155.539989\"\n}",
-  "order_no": "1733205828155.539989"
+  "json_": "{\n  \"url\": \"https://www.bluebash.co/services/artificial-intelligence/data-annotation\",\n  \"unique_key\": \"https://www.bluebash.co/services/artificial-intelligence/data-annotation\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.bluebash.co/services/artificial-intelligence/data-annotation\",\n  \"handled_at\": \"2024-12-03 07:08:16.344084+00:00\",\n  \"id\": \"EAqbRETQrQmhwI3\",\n  \"order_no\": null\n}",
+  "order_no": null
 }
